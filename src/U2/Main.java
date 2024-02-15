@@ -1,6 +1,6 @@
-package Labb1.U2;
+package U2;
 
-import Labb1.U2.LinkedList2;
+import U2.LinkedList2;
 
 import java.util.Iterator;
 

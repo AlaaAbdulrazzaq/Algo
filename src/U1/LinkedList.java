@@ -1,4 +1,4 @@
-package Labb1.U1;
+package U1;
 
 public class LinkedList<E> {
     private int size;

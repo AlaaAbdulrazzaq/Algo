@@ -1,6 +1,6 @@
-package Labb1.U1;
+package U1;
 
-import Labb1.U1.LinkedList;
+import U1.LinkedList;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Labb1.U2;
+package U2;
 
-import Labb1.U1.LinkedList;
+import U1.LinkedList;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

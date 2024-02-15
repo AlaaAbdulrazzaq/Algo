@@ -1,4 +1,4 @@
-package F4.NB8_1;
+package NB8_1;
 
 import java.util.Arrays;
 
