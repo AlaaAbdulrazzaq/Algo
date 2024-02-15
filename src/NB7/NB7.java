@@ -1,5 +1,6 @@
-package F3.NB7;
-import F3.NB5.NB5_interface;
+package NB7;
+import NB5.NB5_interface;
+
 import java.util.EmptyStackException;
 
 public class NB7<E> implements NB5_interface<E> {

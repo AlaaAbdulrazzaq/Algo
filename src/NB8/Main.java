@@ -1,4 +1,4 @@
-package F4.NB8;
+package NB8;
 
 public class Main {
     public static void main(String[] args) {

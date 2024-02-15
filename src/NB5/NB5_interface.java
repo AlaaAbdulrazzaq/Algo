@@ -1,4 +1,4 @@
-package F3.NB5;
+package NB5;
 
 public interface NB5_interface<E> {
     E push(E obj);

@@ -1,4 +1,4 @@
-package F1.NB0;
+package NB0;
 
 public class Main {
     public static void main(String[] args) {

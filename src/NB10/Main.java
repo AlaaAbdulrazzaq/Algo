@@ -1,8 +1,8 @@
-package F4.NB10;
+package NB10;
 
 public class Main {
     public static void main(String[] args) {
-        NB10<Integer> deque = new NB10<>();
+        NB10<Integer> deque = new NB10<Integer>();
 
         // Test 1: Offer elements to both ends
         for (int i = 1; i <= 5; i++) {

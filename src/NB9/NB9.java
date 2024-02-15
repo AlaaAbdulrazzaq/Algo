@@ -1,4 +1,4 @@
-package F4.NB9;
+package NB9;
 
 public class NB9<E> {
     private class Node<E> {

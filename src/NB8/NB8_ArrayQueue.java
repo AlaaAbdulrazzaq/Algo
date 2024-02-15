@@ -1,4 +1,4 @@
-package F4.NB8;
+package NB8;
 
 import java.util.AbstractQueue;
 import java.util.Iterator;

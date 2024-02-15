@@ -1,4 +1,4 @@
-package F3.NB5;
+package NB5;
 
 import java.util.EmptyStackException;
 import java.util.Arrays;

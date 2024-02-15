@@ -1,4 +1,4 @@
-package F2.NB3;
+package NB3;
 
 public class LinkedList<E> {
     private int size;

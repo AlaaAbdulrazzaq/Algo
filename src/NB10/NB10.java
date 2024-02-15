@@ -1,6 +1,6 @@
-package F4.NB10;
+package NB10;
 
-import F4.NB9.NB9;
+import NB9.NB9;
 
 public class NB10<E> {
     private class Node<E> {

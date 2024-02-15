@@ -1,8 +1,8 @@
-package F4.NB9;
+package NB9;
 
 public class Main {
     public static void main(String[] args) {
-        NB9<Integer> queue = new NB9<>();
+        NB9<Integer> queue = new NB9<Integer>();
 
         queue.offer(1);
         queue.offer(2);

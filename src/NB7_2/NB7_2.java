@@ -1,4 +1,4 @@
-package F4.NB7_2;
+package NB7_2;
 
 import java.util.EmptyStackException;
 import java.util.Stack;

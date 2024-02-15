@@ -1,8 +1,8 @@
-package F3.NB5;
+package NB5;
 
 public class Main {
     public static void main(String[] args) {
-        NB5<Integer> stack = new NB5<>();
+        NB5<Integer> stack = new NB5<Integer>();
 
         // Push elements onto the stack
         stack.push(10);
