@@ -1,8 +1,5 @@
 package tree;
 
-
-import java.util.TreeMap;
-
 public class BinarySearchTree<E extends Comparable<E>> {
     private static class Node<E> {
         private E data;

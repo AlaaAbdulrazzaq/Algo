@@ -1,7 +1,4 @@
 package NB26_1;
-
-import NB26_1.HashMap;
-
 public class StringCounter {
     String[] arrayOfString;
     int nrOfString;

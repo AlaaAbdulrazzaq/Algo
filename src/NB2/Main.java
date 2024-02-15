@@ -1,4 +1,4 @@
-package F2.NB2;
+package NB2;
 
 public class Main {
     public static void main(String[] args) {

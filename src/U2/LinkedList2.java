@@ -1,7 +1,4 @@
 package U2;
-
-import U1.LinkedList;
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 

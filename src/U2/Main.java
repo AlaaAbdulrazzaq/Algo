@@ -1,7 +1,5 @@
 package U2;
 
-import U2.LinkedList2;
-
 import java.util.Iterator;
 
 public class Main {

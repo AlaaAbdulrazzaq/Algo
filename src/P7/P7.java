@@ -1,4 +1,4 @@
-package F4.P7;
+package P7;
 
 import java.util.Stack;
 

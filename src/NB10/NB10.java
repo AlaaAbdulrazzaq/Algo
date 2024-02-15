@@ -1,7 +1,5 @@
 package NB10;
 
-import NB9.NB9;
-
 public class NB10<E> {
     private class Node<E> {
         E data;

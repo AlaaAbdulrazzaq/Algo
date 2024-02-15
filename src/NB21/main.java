@@ -1,7 +1,5 @@
 package NB21;
 
-import NB21.BinarySearchTree;
-
 public class main {
     public static void main(String[] args) {
         BinarySearchTree<String> BST = new BinarySearchTree<>();

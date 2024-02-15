@@ -1,7 +1,5 @@
 package NB26_2;
 
-import NB26_2.HashMap;
-
 public class minStringCounter {
     String[] arrayOfString;
     int nrOfString;

@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package F1.NB1;
+package NB1;
 
-import F1.NB1.DirectoryEntry;
+import NB1.DirectoryEntry;
 
 import java.util.*;
 import javax.swing.*;

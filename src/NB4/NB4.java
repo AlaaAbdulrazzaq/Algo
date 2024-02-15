@@ -1,4 +1,4 @@
-package F3.NB4;
+package NB4;
 
 import java.util.Stack;
 

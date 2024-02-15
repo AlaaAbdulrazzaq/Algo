@@ -1,6 +1,5 @@
 package NB22_1;
 
-import NB22_1.BinarySearchTree;
 
 public class main {
     public static void main(String[] args) {

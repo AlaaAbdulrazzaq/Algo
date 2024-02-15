@@ -1,7 +1,5 @@
 package U1;
 
-import U1.LinkedList;
-
 public class Main {
     public static void main(String[] args) {
         LinkedList<String> l = new LinkedList<>();

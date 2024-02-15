@@ -1,7 +1,5 @@
 package NB8_1;
 
-import java.util.Arrays;
-
 public class CorrectedQueue<E> {
     private int front, rear, size, maxSize;
     private E[] data;

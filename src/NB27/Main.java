@@ -1,7 +1,5 @@
 package NB27;
 
-import NB27.Car;
-
 
 import java.io.IOException;
 import java.io.*;
